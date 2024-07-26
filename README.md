@@ -13,6 +13,9 @@
 ![img](./images/contributors.png)
 ![img](./images/recipe_board.png)
 
+## Video
+https://github.com/user-attachments/assets/b1851592-6294-4597-bfd3-081acb938c6a
+
 ## Contributor
 [한충희](https://github.com/mongdamhwa)
 [이승민](https://github.com/2Smean)
